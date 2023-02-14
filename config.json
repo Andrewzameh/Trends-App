@@ -1,12 +1,10 @@
 {
-    "key":"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",
-    "created": 1676154298,
-    "id": "cmpl-6isagY6zJkqtCjWbgdc4y99ELUAGM",
-    "model": "text-davinci-003",
-    "object": "text_completion",
-    "usage": {
-        "completion_tokens": 18,
-        "prompt_tokens": 66,
-        "total_tokens": 84
-    }
+    "key":"Your API Token",
+    "model="text-davinci-003",
+    "temperature"=0.9,
+    "max_tokens"=150,
+    "top_p'=1,
+    "frequency_penalty"=0.0,
+    "presence_penalty"=0.6,
 }
+
